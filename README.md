@@ -23,7 +23,7 @@ export BOT_TOKEN="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
 
 # One or more user/group username/id the bot serve to,
 # separate with space
-export MUSIC_CHATS="-100123456789 username"
+export MUSIC_CHATS="-1001429962431 username"
 
 # install ffmpeg
 apt install ffmpeg
